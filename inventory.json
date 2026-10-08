@@ -1,6 +1,6 @@
 {
   "dealership": "Comox Valley Toyota",
-  "generated_at": "2026-10-04T11:22:15",
+  "generated_at": "2026-10-08T14:35:35",
   "vehicle_count": 257,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2008,
       "make": "Mazda",
       "model": "MX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Subaru Forester ",
@@ -34,7 +36,9 @@
       "year": 2016,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Volkswagen Golf R ",
@@ -49,7 +53,9 @@
       "year": 2016,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape ",
@@ -64,7 +70,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Infiniti QX60 ",
@@ -79,7 +87,9 @@
       "year": 2017,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Cherokee ",
@@ -94,7 +104,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Acura RDX ",
@@ -109,7 +121,9 @@
       "year": 2018,
       "make": "Acura",
       "model": "RDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Compass ",
@@ -124,7 +138,9 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Wrangler ",
@@ -139,7 +155,9 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Murano ",
@@ -154,7 +172,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Murano ",
@@ -169,7 +189,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 1500 ",
@@ -184,7 +206,9 @@
       "year": 2018,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Audi Q7 ",
@@ -199,7 +223,9 @@
       "year": 2019,
       "make": "Audi",
       "model": "Q7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Elantra ",
@@ -214,7 +240,9 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Sentra ",
@@ -229,7 +257,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Jetta ",
@@ -244,12 +274,15 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Lexus GX 460in Courtenay",
       "vin": "JTJGM7BX5L5257990",
       "stock": "NUMBER",
+      "trim": "460in Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/0cfa1072fbc8.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2020-Lexus-GX-id14426356.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2020-Lexus-GX-id14426356.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -259,8 +292,10 @@
       "odometer_km": 58842,
       "year": 2020,
       "make": "Lexus",
-      "model": "GX 460in Courtenay",
-      "condition": "used"
+      "model": "GX",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Lexus GX ",
@@ -275,7 +310,9 @@
       "year": 2020,
       "make": "Lexus",
       "model": "GX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Lexus RX ",
@@ -290,7 +327,9 @@
       "year": 2020,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Murano ",
@@ -305,7 +344,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota Tacoma ",
@@ -321,7 +362,9 @@
       "year": 2020,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Volvo XC60 ",
@@ -336,7 +379,9 @@
       "year": 2020,
       "make": "Volvo",
       "model": "XC60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Explorer ",
@@ -351,7 +396,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Seltos ",
@@ -366,12 +413,15 @@
       "year": 2021,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Lexus RX 350in Courtenay",
       "vin": "2T2YZMDA4MC302417",
       "stock": "NUMBER",
+      "trim": "350in Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/29ec245ddc47.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2021-Lexus-RX-id14398295.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2021-Lexus-RX-id14398295.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -381,8 +431,10 @@
       "odometer_km": 86664,
       "year": 2021,
       "make": "Lexus",
-      "model": "RX 350in Courtenay",
-      "condition": "used"
+      "model": "RX",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Lexus RX ",
@@ -397,7 +449,9 @@
       "year": 2021,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota RAV4 ",
@@ -412,13 +466,16 @@
       "year": 2021,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Tundra SR5in Courtenay",
       "vin": "5TFDY5F17MX013882",
       "stock": "NUMBER",
       "color": "Super White",
+      "trim": "SR5in Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/016d8532812f.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2021-Toyota-Tundra-id14413098.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2021-Toyota-Tundra-id14413098.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -428,8 +485,10 @@
       "odometer_km": 110414,
       "year": 2021,
       "make": "Toyota",
-      "model": "Tundra SR5in Courtenay",
-      "condition": "used"
+      "model": "Tundra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Tundra ",
@@ -445,7 +504,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Tundra ",
@@ -461,7 +522,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas Cross Sport ",
@@ -476,7 +539,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 Audi Q7 ",
@@ -491,7 +556,9 @@
       "year": 2022,
       "make": "Audi",
       "model": "Q7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Outlander ",
@@ -506,7 +573,9 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Outback ",
@@ -521,7 +590,9 @@
       "year": 2022,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota RAV4 ",
@@ -536,12 +607,15 @@
       "year": 2022,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Acura MDX PLATINUM ELITEin Courtenay",
       "vin": "5J8YE1H82PL801902",
       "stock": "NUMBER",
+      "trim": "PLATINUM ELITEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/7e5dc43170f6.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2023-Acura-MDX-id14071694.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2023-Acura-MDX-id14071694.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -551,8 +625,10 @@
       "odometer_km": 82630,
       "year": 2023,
       "make": "Acura",
-      "model": "MDX PLATINUM ELITEin Courtenay",
-      "condition": "used"
+      "model": "MDX",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Acura MDX ",
@@ -567,7 +643,9 @@
       "year": 2023,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Audi SQ5 PROGRESSIVin Courtenay",
@@ -583,7 +661,9 @@
       "year": 2023,
       "make": "Audi",
       "model": "SQ5 PROGRESSIVin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Audi SQ5 ",
@@ -598,7 +678,9 @@
       "year": 2023,
       "make": "Audi",
       "model": "SQ5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Escape Hybrid ",
@@ -613,12 +695,15 @@
       "year": 2023,
       "make": "Ford",
       "model": "Escape Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV80 3.5T PRESTIGEin Courtenay",
       "vin": "KMUHCESC3PU110457",
       "stock": "NUMBER",
+      "trim": "3.5T PRESTIGEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/a4182d19cad7.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2023-Genesis-GV80-id14419273.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2023-Genesis-GV80-id14419273.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -628,8 +713,10 @@
       "odometer_km": 70586,
       "year": 2023,
       "make": "Genesis",
-      "model": "GV80 3.5T PRESTIGEin Courtenay",
-      "condition": "used"
+      "model": "GV80",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV80 ",
@@ -644,7 +731,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Santa Fe ",
@@ -659,7 +748,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Santa Fe ",
@@ -674,12 +765,15 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Lexus RX 350in Courtenay",
       "vin": "2T2BAMCAXPC029230",
       "stock": "NUMBER",
+      "trim": "350in Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/0794566a9402.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2023-Lexus-RX-id14188835.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2023-Lexus-RX-id14188835.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -689,8 +783,10 @@
       "odometer_km": 63471,
       "year": 2023,
       "make": "Lexus",
-      "model": "RX 350in Courtenay",
-      "condition": "used"
+      "model": "RX",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Lexus RX ",
@@ -705,12 +801,15 @@
       "year": 2023,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota GR Corolla COREin Courtenay",
       "vin": "JTNABAAE7PA007560",
       "stock": "NUMBER",
+      "trim": "COREin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/d085a8b9ce06.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2023-Toyota-GR_Corolla-id14385041.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2023-Toyota-GR_Corolla-id14385041.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -720,8 +819,10 @@
       "odometer_km": 17298,
       "year": 2023,
       "make": "Toyota",
-      "model": "GR Corolla COREin Courtenay",
-      "condition": "used"
+      "model": "GR Corolla",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota GR Corolla ",
@@ -736,12 +837,15 @@
       "year": 2023,
       "make": "Toyota",
       "model": "GR Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota RAV4 LIMITEDin Courtenay",
       "vin": "2T3D1RFV9PW375042",
       "stock": "NUMBER",
+      "trim": "LIMITEDin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/bdfcad8e4af3.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2023-Toyota-RAV4-id14370627.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2023-Toyota-RAV4-id14370627.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -751,8 +855,10 @@
       "odometer_km": 54120,
       "year": 2023,
       "make": "Toyota",
-      "model": "RAV4 LIMITEDin Courtenay",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota RAV4 ",
@@ -767,13 +873,16 @@
       "year": 2023,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Tacoma BASEin Courtenay",
       "vin": "3TYDZ5BN3PT034393",
       "stock": "NUMBER",
       "color": "Blue Crush Metallic",
+      "trim": "BASEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/483b22c8f9b3.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2023-Toyota-Tacoma-id14084025.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2023-Toyota-Tacoma-id14084025.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -783,8 +892,10 @@
       "odometer_km": 49958,
       "year": 2023,
       "make": "Toyota",
-      "model": "Tacoma BASEin Courtenay",
-      "condition": "used"
+      "model": "Tacoma",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Tacoma ",
@@ -800,12 +911,15 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Volvo XC90 ULTIMATE BRIGHT THEMEin Courtenay",
       "vin": "YV4062PA6P1924033",
       "stock": "NUMBER",
+      "trim": "ULTIMATE BRIGHT THEMEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/346384068e2a.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2023-Volvo-XC90-id14140387.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2023-Volvo-XC90-id14140387.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -815,8 +929,10 @@
       "odometer_km": 112178,
       "year": 2023,
       "make": "Volvo",
-      "model": "XC90 ULTIMATE BRIGHT THEMEin Courtenay",
-      "condition": "used"
+      "model": "XC90",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Volvo XC90 ",
@@ -831,12 +947,15 @@
       "year": 2023,
       "make": "Volvo",
       "model": "XC90",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Acura ZDX W/A-SPEC PACKAGEin Courtenay",
       "vin": "4W5KHNRL7RZ501944",
       "stock": "NUMBER",
+      "trim": "W/A-SPEC PACKAGEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/8a863e2afcb6.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2024-Acura-ZDX-id14077866.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2024-Acura-ZDX-id14077866.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -846,8 +965,10 @@
       "odometer_km": 64977,
       "year": 2024,
       "make": "Acura",
-      "model": "ZDX W/A-SPEC PACKAGEin Courtenay",
-      "condition": "used"
+      "model": "ZDX",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Acura ZDX ",
@@ -862,7 +983,9 @@
       "year": 2024,
       "make": "Acura",
       "model": "ZDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Acura ZDX ",
@@ -877,7 +1000,9 @@
       "year": 2024,
       "make": "Acura",
       "model": "ZDX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape ",
@@ -892,7 +1017,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape ",
@@ -907,7 +1034,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Santa Fe ",
@@ -922,7 +1051,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Santa Fe ",
@@ -937,12 +1068,15 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee ALTITUDEin Courtenay",
       "vin": "1C4RJHAG9RC203544",
       "stock": "NUMBER",
+      "trim": "ALTITUDEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/6657f785a817.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2024-Jeep-Grand_Cherokee-id14364737.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2024-Jeep-Grand_Cherokee-id14364737.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -952,8 +1086,10 @@
       "odometer_km": 25198,
       "year": 2024,
       "make": "Jeep",
-      "model": "Grand Cherokee ALTITUDEin Courtenay",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee ",
@@ -968,7 +1104,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler ",
@@ -984,7 +1122,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee ",
@@ -999,7 +1139,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler ",
@@ -1015,12 +1157,15 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus RX 350in Courtenay",
       "vin": "2T2BAMCA9RC043252",
       "stock": "NUMBER",
+      "trim": "350in Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/6c1a73206a09.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2024-Lexus-RX-id14165735.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2024-Lexus-RX-id14165735.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1030,8 +1175,10 @@
       "odometer_km": 26271,
       "year": 2024,
       "make": "Lexus",
-      "model": "RX 350in Courtenay",
-      "condition": "used"
+      "model": "RX",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus RX ",
@@ -1046,7 +1193,9 @@
       "year": 2024,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus RX ",
@@ -1061,12 +1210,15 @@
       "year": 2024,
       "make": "Lexus",
       "model": "RX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 LIMITEDin Courtenay",
       "vin": "3C63R3SL8RG120723",
       "stock": "NUMBER",
+      "trim": "LIMITEDin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/c59008e56d5b.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2024-RAM-3500-id14140385.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2024-RAM-3500-id14140385.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1076,8 +1228,10 @@
       "odometer_km": 29908,
       "year": 2024,
       "make": "RAM",
-      "model": "3500 LIMITEDin Courtenay",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 ",
@@ -1092,13 +1246,16 @@
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota 4Runner BASEin Courtenay",
       "vin": "JTENU5JR0R6293313",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "BASEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/61fe9c991685.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2024-Toyota-4Runner-id14140381.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2024-Toyota-4Runner-id14140381.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1108,8 +1265,10 @@
       "odometer_km": 64306,
       "year": 2024,
       "make": "Toyota",
-      "model": "4Runner BASEin Courtenay",
-      "condition": "used"
+      "model": "4Runner",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota 4Runner ",
@@ -1125,12 +1284,15 @@
       "year": 2024,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tacoma BASEin Courtenay",
       "vin": "3TYLB5JN0RT024974",
       "stock": "NUMBER",
+      "trim": "BASEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/3f2d1c0d38f8.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2024-Toyota-Tacoma-id14370649.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2024-Toyota-Tacoma-id14370649.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1140,13 +1302,16 @@
       "odometer_km": 17654,
       "year": 2024,
       "make": "Toyota",
-      "model": "Tacoma BASEin Courtenay",
-      "condition": "used"
+      "model": "Tacoma",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tacoma BASEin Courtenay",
       "vin": "3TYLB5JNXRT011827",
       "stock": "NUMBER",
+      "trim": "BASEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/ed3d88cfa007.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2024-Toyota-Tacoma-id14398300.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2024-Toyota-Tacoma-id14398300.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1156,8 +1321,10 @@
       "odometer_km": 47215,
       "year": 2024,
       "make": "Toyota",
-      "model": "Tacoma BASEin Courtenay",
-      "condition": "used"
+      "model": "Tacoma",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tacoma ",
@@ -1172,12 +1339,15 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tundra CAPSTONE HYBRIDin Courtenay",
       "vin": "5TFVC5DBXRX082457",
       "stock": "NUMBER",
+      "trim": "CAPSTONE HYBRIDin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/5f20a688b9e0.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2024-Toyota-Tundra-id14426355.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2024-Toyota-Tundra-id14426355.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1187,8 +1357,10 @@
       "odometer_km": 49551,
       "year": 2024,
       "make": "Toyota",
-      "model": "Tundra CAPSTONE HYBRIDin Courtenay",
-      "condition": "used"
+      "model": "Tundra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tundra ",
@@ -1203,7 +1375,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tacoma ",
@@ -1218,7 +1392,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tundra ",
@@ -1233,7 +1409,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -1248,7 +1426,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -1263,12 +1443,15 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco OUTER BANKSin Courtenay",
       "vin": "1FMEE8BP7SLA59429",
       "stock": "NUMBER",
+      "trim": "OUTER BANKSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/7903ddc293d1.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2025-Ford-Bronco-id14297450.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2025-Ford-Bronco-id14297450.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1278,8 +1461,10 @@
       "odometer_km": 20960,
       "year": 2025,
       "make": "Ford",
-      "model": "Bronco OUTER BANKSin Courtenay",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco ",
@@ -1294,12 +1479,15 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Ranger XLTin Courtenay",
       "vin": "1FTER4HP5SLE36669",
       "stock": "NUMBER",
+      "trim": "XLTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/341f3c942477.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2025-Ford-Ranger-id14359001.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2025-Ford-Ranger-id14359001.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1309,8 +1497,10 @@
       "odometer_km": 9323,
       "year": 2025,
       "make": "Ford",
-      "model": "Ranger XLTin Courtenay",
-      "condition": "used"
+      "model": "Ranger",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Ranger ",
@@ -1325,7 +1515,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco ",
@@ -1340,7 +1532,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Ranger ",
@@ -1355,7 +1549,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid ",
@@ -1370,7 +1566,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid ",
@@ -1385,12 +1583,15 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Infiniti QX60 PUREin Courtenay",
       "vin": "5N1AL1ES4SC344892",
       "stock": "NUMBER",
+      "trim": "PUREin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/32e611957d83.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2025-Infiniti-QX60-id14353785.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2025-Infiniti-QX60-id14353785.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1400,8 +1601,10 @@
       "odometer_km": 14156,
       "year": 2025,
       "make": "Infiniti",
-      "model": "QX60 PUREin Courtenay",
-      "condition": "used"
+      "model": "QX60",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Infiniti QX60 ",
@@ -1416,7 +1619,9 @@
       "year": 2025,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Infiniti QX60 ",
@@ -1431,12 +1636,15 @@
       "year": 2025,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Lexus RX 350Hin Courtenay",
       "vin": "2T2BBMCA6SC072355",
       "stock": "NUMBER",
+      "trim": "350Hin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/4d89289bd57b.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2025-Lexus-RX-id14353787.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2025-Lexus-RX-id14353787.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1446,8 +1654,10 @@
       "odometer_km": 7689,
       "year": 2025,
       "make": "Lexus",
-      "model": "RX 350Hin Courtenay",
-      "condition": "used"
+      "model": "RX",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Lexus RX ",
@@ -1462,7 +1672,9 @@
       "year": 2025,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Lexus RX ",
@@ -1477,13 +1689,16 @@
       "year": 2025,
       "make": "Lexus",
       "model": "RX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Pathfinder PLATINUMin Courtenay",
       "vin": "5N1DR3DJXSC237765",
       "stock": "NUMBER",
       "color": "Boulder Gray 2tone",
+      "trim": "PLATINUMin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/0607398567b9.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2025-Nissan-Pathfinder-id14060341.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2025-Nissan-Pathfinder-id14060341.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1493,8 +1708,10 @@
       "odometer_km": 56807,
       "year": 2025,
       "make": "Nissan",
-      "model": "Pathfinder PLATINUMin Courtenay",
-      "condition": "used"
+      "model": "Pathfinder",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Pathfinder ",
@@ -1510,7 +1727,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -1525,7 +1744,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -1540,12 +1761,15 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 REBELin Courtenay",
       "vin": "1C6SRFLP3SN617674",
       "stock": "NUMBER",
+      "trim": "REBELin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/54e2471dc9bc.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2025-RAM-1500-id14291991.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2025-RAM-1500-id14291991.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1555,8 +1779,10 @@
       "odometer_km": 12075,
       "year": 2025,
       "make": "RAM",
-      "model": "1500 REBELin Courtenay",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 ",
@@ -1571,7 +1797,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 ",
@@ -1586,12 +1814,15 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Grand Highlander HYBRID XLEin Courtenay",
       "vin": "5TDACAB58SS036593",
       "stock": "NUMBER",
+      "trim": "XLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/49985053a85a.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2025-Toyota-Grand_Highlander-id14404119.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2025-Toyota-Grand_Highlander-id14404119.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1601,8 +1832,10 @@
       "odometer_km": 13664,
       "year": 2025,
       "make": "Toyota",
-      "model": "Grand Highlander HYBRID XLEin Courtenay",
-      "condition": "used"
+      "model": "Grand Highlander Hybrid",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Grand Highlander ",
@@ -1617,7 +1850,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Grand Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 ",
@@ -1632,13 +1867,16 @@
       "year": 2025,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tacoma HYBRIDin Courtenay",
       "vin": "3TYLC5LN5ST048462",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "HYBRIDin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/be14d844b3f4.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2025-Toyota-Tacoma-id14385038.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2025-Toyota-Tacoma-id14385038.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1648,8 +1886,10 @@
       "odometer_km": 7795,
       "year": 2025,
       "make": "Toyota",
-      "model": "Tacoma HYBRIDin Courtenay",
-      "condition": "used"
+      "model": "Tacoma",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tacoma ",
@@ -1665,7 +1905,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Corolla Hatchback ",
@@ -1680,7 +1922,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Corolla Hatchback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Grand Highlander ",
@@ -1695,7 +1939,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Grand Highlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tacoma ",
@@ -1711,12 +1957,15 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas COMFORTLINEin Courtenay",
       "vin": "1V2LR2CA4SC536467",
       "stock": "NUMBER",
+      "trim": "COMFORTLINEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/af418837132a.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2025-Volkswagen-Atlas-id14359006.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2025-Volkswagen-Atlas-id14359006.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1726,8 +1975,10 @@
       "odometer_km": 4361,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Atlas COMFORTLINEin Courtenay",
-      "condition": "used"
+      "model": "Atlas",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas ",
@@ -1742,12 +1993,15 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas Cross Sport EXECLINEin Courtenay",
       "vin": "1V2FE2CAXSC213484",
       "stock": "NUMBER",
+      "trim": "EXECLINEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/9e3a53e445af.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2025-Volkswagen-Atlas_Cross_Sport-id14171399.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2025-Volkswagen-Atlas_Cross_Sport-id14171399.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1757,8 +2011,10 @@
       "odometer_km": 12460,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport EXECLINEin Courtenay",
-      "condition": "used"
+      "model": "Atlas Cross Sport",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas Cross Sport ",
@@ -1773,7 +2029,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas ",
@@ -1788,7 +2046,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas Cross Sport ",
@@ -1803,7 +2063,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid ",
@@ -1818,12 +2080,15 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350in Courtenay",
       "vin": "2T2BAMCA1TC135298",
       "stock": "NUMBER",
+      "trim": "350in Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/ab8d3ee4d9d6.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2026-Lexus-RX-id14291992.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2026-Lexus-RX-id14291992.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1833,8 +2098,10 @@
       "odometer_km": 6800,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350in Courtenay",
-      "condition": "used"
+      "model": "RX",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX ",
@@ -1849,7 +2116,9 @@
       "year": 2026,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX ",
@@ -1864,7 +2133,9 @@
       "year": 2026,
       "make": "Lexus",
       "model": "RX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota 4Runner ",
@@ -1880,7 +2151,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota 4Runner ",
@@ -1896,7 +2169,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota C-HRin Courtenay",
@@ -1911,7 +2186,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "C-HRin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Camry ",
@@ -1926,7 +2203,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Camry",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla ",
@@ -1941,7 +2220,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Cross ",
@@ -1957,12 +2238,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Corolla Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Cross Hybridin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/39567c826835.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Corolla_Cross_Hybrid.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Corolla_Cross_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1971,13 +2255,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Cross Hybridin Courtenay",
-      "condition": "used"
+      "model": "Corolla Cross",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Hatchbackin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hatchbackin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/c0226f2bc01e.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Corolla_Hatchback.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Corolla_Hatchback.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1986,8 +2273,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Hatchbackin Courtenay",
-      "condition": "used"
+      "model": "Corolla",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla ",
@@ -2003,7 +2292,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Crownin Courtenay",
@@ -2018,7 +2309,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Crownin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Crown Signia ",
@@ -2034,7 +2327,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Crown Signia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota GR86in Courtenay",
@@ -2049,7 +2344,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "GR86in Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota GR Corolla ",
@@ -2065,7 +2362,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "GR Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota GR Suprain Courtenay",
@@ -2080,7 +2379,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "GR Suprain Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Grand Highlander ",
@@ -2095,12 +2396,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Grand Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Grand Highlander Hybridin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/a37770ef28d7.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Grand_Highlander_Hybrid.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Grand_Highlander_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2109,8 +2413,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Grand Highlander Hybridin Courtenay",
-      "condition": "used"
+      "model": "Grand Highlander",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Highlander ",
@@ -2126,12 +2432,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Highlander Hybridin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/56a413b51297.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Highlander_Hybrid.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Highlander_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2140,8 +2449,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Highlander Hybridin Courtenay",
-      "condition": "used"
+      "model": "Highlander",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Land Cruiserin Courtenay",
@@ -2156,7 +2467,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Land Cruiserin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Miraiin Courtenay",
@@ -2171,7 +2484,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Miraiin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Prius ",
@@ -2187,12 +2502,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Prius",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Prius Plug-In Hybridin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/79ce127cfd1d.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Prius_Plug_In_Hybrid.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Prius_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2201,8 +2519,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Prius Plug-In Hybridin Courtenay",
-      "condition": "used"
+      "model": "Prius Plug-In",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota RAV4in Courtenay",
@@ -2217,7 +2537,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "RAV4in Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota RAV4 Plug-In Hybrid ",
@@ -2233,7 +2555,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "RAV4 Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Sequoiain Courtenay",
@@ -2248,7 +2572,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Sequoiain Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Sienna ",
@@ -2264,7 +2590,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Sienna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma ",
@@ -2280,7 +2608,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma ",
@@ -2296,7 +2626,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra ",
@@ -2312,7 +2644,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra ",
@@ -2328,7 +2662,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota bZ ",
@@ -2344,12 +2680,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "bZ",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota bZ Woodland ",
       "vin": "JTMBGAHB6TY609907",
       "stock": 13878988,
+      "trim": "Woodland",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/fcb6076f6f83.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-bZ_Woodland.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-bZ_Woodland.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2358,13 +2697,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "bZ Woodland",
-      "condition": "used"
+      "model": "bZ",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Grand Highlander XLEin Courtenay",
       "vin": "5TDAAAB53TS141033",
       "stock": "NUMBER",
+      "trim": "XLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/1326f1c6a98f.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2026-Toyota-Grand_Highlander-id14391898.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2026-Toyota-Grand_Highlander-id14391898.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2374,8 +2716,10 @@
       "odometer_km": 5425,
       "year": 2026,
       "make": "Toyota",
-      "model": "Grand Highlander XLEin Courtenay",
-      "condition": "used"
+      "model": "Grand Highlander",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Grand Highlander ",
@@ -2390,13 +2734,16 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Grand Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Sienna LIMITEDin Courtenay",
       "vin": "5TDGSKFC8TS231977",
       "stock": "NUMBER",
       "color": "Wind Chill Pearl",
+      "trim": "LIMITEDin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/f236ba815d89.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2026-Toyota-Sienna-id14370624.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2026-Toyota-Sienna-id14370624.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2406,8 +2753,10 @@
       "odometer_km": 8586,
       "year": 2026,
       "make": "Toyota",
-      "model": "Sienna LIMITEDin Courtenay",
-      "condition": "used"
+      "model": "Sienna",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Sienna ",
@@ -2423,13 +2772,16 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Sienna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra CAPSTONE HYBRIDin Courtenay",
       "vin": "5TFVC5DB2TX124675",
       "stock": "NUMBER",
       "color": "Midnight Black Metallic",
+      "trim": "CAPSTONE HYBRIDin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/cc0e6e4aa9a7.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2026-Toyota-Tundra-id14008756.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2026-Toyota-Tundra-id14008756.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2439,14 +2791,17 @@
       "odometer_km": 8355,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra CAPSTONE HYBRIDin Courtenay",
-      "condition": "used"
+      "model": "Tundra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra SRin Courtenay",
       "vin": "5TFLA5DB9TX360771",
       "stock": "NUMBER",
       "color": "Mudbath",
+      "trim": "SRin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/fb22a999d901.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2026-Toyota-Tundra-id14370643.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2026-Toyota-Tundra-id14370643.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2456,8 +2811,10 @@
       "odometer_km": 8940,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra SRin Courtenay",
-      "condition": "used"
+      "model": "Tundra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra ",
@@ -2473,7 +2830,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota 4Runner ",
@@ -2489,7 +2848,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota 4Runner ",
@@ -2505,7 +2866,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota C-HRin Courtenay",
@@ -2520,7 +2883,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "C-HRin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Camry ",
@@ -2535,7 +2900,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Camry",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla ",
@@ -2550,7 +2917,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Cross ",
@@ -2566,12 +2935,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Corolla Cross",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Cross Hybridin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/39567c826835.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Corolla_Cross_Hybrid.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Corolla_Cross_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2580,13 +2952,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Cross Hybridin Courtenay",
-      "condition": "new"
+      "model": "Corolla Cross",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Hatchbackin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hatchbackin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/c0226f2bc01e.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Corolla_Hatchback.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Corolla_Hatchback.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2595,8 +2970,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Hatchbackin Courtenay",
-      "condition": "new"
+      "model": "Corolla",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla ",
@@ -2612,7 +2989,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Crownin Courtenay",
@@ -2627,7 +3006,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Crownin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Crown Signia ",
@@ -2643,7 +3024,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Crown Signia",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota GR86in Courtenay",
@@ -2658,7 +3041,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "GR86in Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota GR Corolla ",
@@ -2674,7 +3059,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "GR Corolla",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota GR Suprain Courtenay",
@@ -2689,7 +3076,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "GR Suprain Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Grand Highlander ",
@@ -2704,12 +3093,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Grand Highlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Grand Highlander Hybridin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/a37770ef28d7.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Grand_Highlander_Hybrid.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Grand_Highlander_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2718,8 +3110,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Grand Highlander Hybridin Courtenay",
-      "condition": "new"
+      "model": "Grand Highlander",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Highlander ",
@@ -2735,12 +3129,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Highlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Highlander Hybridin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/56a413b51297.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Highlander_Hybrid.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Highlander_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2749,8 +3146,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Highlander Hybridin Courtenay",
-      "condition": "new"
+      "model": "Highlander",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Land Cruiserin Courtenay",
@@ -2765,7 +3164,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Land Cruiserin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Miraiin Courtenay",
@@ -2780,7 +3181,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Miraiin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Prius ",
@@ -2796,12 +3199,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Prius",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Prius Plug-In Hybridin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/79ce127cfd1d.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Prius_Plug_In_Hybrid.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Prius_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2810,8 +3216,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Prius Plug-In Hybridin Courtenay",
-      "condition": "new"
+      "model": "Prius Plug-In",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota RAV4in Courtenay",
@@ -2826,7 +3234,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "RAV4in Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota RAV4 Plug-In Hybrid ",
@@ -2842,7 +3252,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "RAV4 Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Sequoiain Courtenay",
@@ -2857,7 +3269,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Sequoiain Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Sienna ",
@@ -2873,7 +3287,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Sienna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma ",
@@ -2889,7 +3305,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma ",
@@ -2905,7 +3323,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra ",
@@ -2921,7 +3341,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra ",
@@ -2937,7 +3359,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota bZin Courtenay",
@@ -2952,12 +3376,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "bZin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota bZ Woodland ",
       "vin": "JTMBGAHB6TY609907",
       "stock": 13878988,
+      "trim": "Woodland",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/fcb6076f6f83.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-bZ_Woodland.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-bZ_Woodland.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2966,13 +3393,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "bZ Woodland",
-      "condition": "new"
+      "model": "bZ",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Camry XSEin Courtenay",
       "vin": "4T1DBADK9TU567863",
       "stock": "NUMBER",
+      "trim": "XSEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/fc5a6a21d727.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Camry-id14319725.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Camry-id14319725.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2981,13 +3411,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Camry XSEin Courtenay",
-      "condition": "new"
+      "model": "Camry",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla SEin Courtenay",
       "vin": "5YFB4MBE5TP277041",
       "stock": "NUMBER",
+      "trim": "SEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/6040423486c4.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Corolla-id14071703.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Corolla-id14071703.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2996,13 +3429,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla SEin Courtenay",
-      "condition": "new"
+      "model": "Corolla",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla LEin Courtenay",
       "vin": "5YFB4MDE7TP377980",
       "stock": "NUMBER",
+      "trim": "LEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/e3df6d0951b1.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Corolla-id14165727.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Corolla-id14165727.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3012,14 +3448,17 @@
       "odometer_km": 4995,
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla LEin Courtenay",
-      "condition": "new"
+      "model": "Corolla",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Cross XLEin Courtenay",
       "vin": "7MUDAABG7TV201920",
       "stock": "NUMBER",
       "color": "Wind Chill Pearl",
+      "trim": "XLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/479365a9f276.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Corolla_Cross-id14210260.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Corolla_Cross-id14210260.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3028,14 +3467,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Cross XLEin Courtenay",
-      "condition": "new"
+      "model": "Corolla Cross",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Cross Lin Courtenay",
       "vin": "7MUAAABG5TV209842",
       "stock": "NUMBER",
       "color": "Sonic Silver Metallic",
+      "trim": "Lin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/486683567c7c.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Corolla_Cross-id14438035.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Corolla_Cross-id14438035.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3044,14 +3486,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Cross Lin Courtenay",
-      "condition": "new"
+      "model": "Corolla Cross",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Crown Signia LIMITEDin Courtenay",
       "vin": "JTDACAAJ0T3050814",
       "stock": "NUMBER",
       "color": "Storm Cloud",
+      "trim": "LIMITEDin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/0bf39b7f571a.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Crown_Signia-id14021249.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Crown_Signia-id14021249.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3060,14 +3505,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Crown Signia LIMITEDin Courtenay",
-      "condition": "new"
+      "model": "Crown Signia",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Crown Signia LIMITEDin Courtenay",
       "vin": "JTDACAAJXT3057432",
       "stock": "NUMBER",
       "color": "Storm Cloud",
+      "trim": "LIMITEDin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/82ba2aa876a6.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Crown_Signia-id14432102.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Crown_Signia-id14432102.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3076,13 +3524,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Crown Signia LIMITEDin Courtenay",
-      "condition": "new"
+      "model": "Crown Signia",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota GR Corolla BASEin Courtenay",
       "vin": "SB1ADADEXTE003620",
       "stock": "NUMBER",
+      "trim": "BASEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/05b7fd3c8443.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-GR_Corolla-id14319723.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-GR_Corolla-id14319723.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3091,14 +3542,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "GR Corolla BASEin Courtenay",
-      "condition": "new"
+      "model": "GR Corolla",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota GR Corolla BASEin Courtenay",
       "vin": "SB1ADADEXTE003858",
       "stock": "NUMBER",
       "color": "Heavy Metal",
+      "trim": "BASEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/28b9221b2ef6.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-GR_Corolla-id14349932.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-GR_Corolla-id14349932.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3107,14 +3561,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "GR Corolla BASEin Courtenay",
-      "condition": "new"
+      "model": "GR Corolla",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Grand Highlander XLEin Courtenay",
       "vin": "5TDAAAB57TS154982",
       "stock": "NUMBER",
       "color": "Wind Chill Pearl",
+      "trim": "XLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/9ed37a2cefb7.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Grand_Highlander-id14438034.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Grand_Highlander-id14438034.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3123,14 +3580,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Grand Highlander XLEin Courtenay",
-      "condition": "new"
+      "model": "Grand Highlander",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota RAV4 Plug-In Hybrid XSEin Courtenay",
       "vin": "JTM7ERAV8TD028902",
       "stock": "NUMBER",
       "color": "Storm Cloud W/black Roof",
+      "trim": "XSEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/5ab0f5908972.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-RAV4_Plug_In_Hybrid-id14364733.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-RAV4_Plug_In_Hybrid-id14364733.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3139,14 +3599,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "RAV4 Plug-In Hybrid XSEin Courtenay",
-      "condition": "new"
+      "model": "RAV4 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota RAV4 Plug-In Hybrid XSEin Courtenay",
       "vin": "JTM7ERAV5TJ036473",
       "stock": "NUMBER",
       "color": "Midnight Black Metallic",
+      "trim": "XSEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/a36ad7093205.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-RAV4_Plug_In_Hybrid-id14364735.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-RAV4_Plug_In_Hybrid-id14364735.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3155,14 +3618,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "RAV4 Plug-In Hybrid XSEin Courtenay",
-      "condition": "new"
+      "model": "RAV4 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Sienna LEin Courtenay",
       "vin": "5TDGRKEC1TS349205",
       "stock": "NUMBER",
       "color": "Midnight Black Metallic",
+      "trim": "LEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/0335db313818.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Sienna-id14453711.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Sienna-id14453711.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3171,14 +3637,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Sienna LEin Courtenay",
-      "condition": "new"
+      "model": "Sienna",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma BASEin Courtenay",
       "vin": "3TYLB5JN2TT137039",
       "stock": "NUMBER",
       "color": "Underground",
+      "trim": "BASEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/12468e158e82.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Tacoma-id14165723.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Tacoma-id14165723.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3187,14 +3656,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma BASEin Courtenay",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma BASEin Courtenay",
       "vin": "3TYLB5JN6TT133205",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "BASEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/154b37620957.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Tacoma-id14165740.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Tacoma-id14165740.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3203,13 +3675,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma BASEin Courtenay",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma BASEin Courtenay",
       "vin": "3TYLB5JN9TT140682",
       "stock": "NUMBER",
+      "trim": "BASEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/0c9ffcb18856.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Tacoma-id14225311.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-Tacoma-id14225311.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3218,13 +3693,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma BASEin Courtenay",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota bZ Woodland BASEin Courtenay",
       "vin": "JTMBGAHB6TY609907",
       "stock": "NUMBER",
+      "trim": "Woodland BASEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/8a21aaa9ae2d.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-bZ_Woodland-id13878988.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2026-Toyota-bZ_Woodland-id13878988.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3233,8 +3711,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "bZ Woodland BASEin Courtenay",
-      "condition": "new"
+      "model": "bZ",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Grand Highlander ",
@@ -3249,7 +3729,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Grand Highlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra ",
@@ -3265,12 +3747,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas EXECLINEin Courtenay",
       "vin": "1V2FN2CA7TC507149",
       "stock": "NUMBER",
+      "trim": "EXECLINEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/f357342e016b.html",
       "source_url": "https://www.comoxvalleytoyota.com/used/2026-Volkswagen-Atlas-id14115454.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2026-Volkswagen-Atlas-id14115454.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3280,8 +3765,10 @@
       "odometer_km": 8510,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas EXECLINEin Courtenay",
-      "condition": "used"
+      "model": "Atlas",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas ",
@@ -3296,7 +3783,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos ",
@@ -3311,7 +3800,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas ",
@@ -3326,7 +3817,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos ",
@@ -3341,7 +3834,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota C-HRin Courtenay",
@@ -3356,7 +3851,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "C-HRin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Corollain Courtenay",
@@ -3371,7 +3868,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Corollain Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Corolla Hatchback ",
@@ -3387,7 +3886,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Corolla Hatchback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Corolla ",
@@ -3403,7 +3904,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Crownin Courtenay",
@@ -3418,7 +3921,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Crownin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota GR86in Courtenay",
@@ -3433,7 +3938,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "GR86in Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Land Cruiser ",
@@ -3449,7 +3956,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Land Cruiser",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Priusin Courtenay",
@@ -3464,7 +3973,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Priusin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid ",
@@ -3480,7 +3991,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota bZ ",
@@ -3496,12 +4009,15 @@
       "year": 2027,
       "make": "Toyota",
       "model": "bZ",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota bZ Woodlandin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Woodlandin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/2b8a23682a50.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2027-Toyota-bZ_Woodland.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2027-Toyota-bZ_Woodland.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3510,8 +4026,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "bZ Woodlandin Courtenay",
-      "condition": "used"
+      "model": "bZ",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota C-HRin Courtenay",
@@ -3526,7 +4044,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "C-HRin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Corollain Courtenay",
@@ -3541,7 +4061,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Corollain Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Corolla Hatchback ",
@@ -3557,7 +4079,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Corolla Hatchback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Corolla ",
@@ -3573,7 +4097,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Crownin Courtenay",
@@ -3588,7 +4114,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Crownin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota GR86in Courtenay",
@@ -3603,7 +4131,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "GR86in Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Land Cruiserin Courtenay",
@@ -3618,7 +4148,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Land Cruiserin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Priusin Courtenay",
@@ -3633,7 +4165,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Priusin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid ",
@@ -3649,7 +4183,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota bZ ",
@@ -3665,12 +4201,15 @@
       "year": 2027,
       "make": "Toyota",
       "model": "bZ",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota bZ Woodlandin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Woodlandin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/2b8a23682a50.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/2027-Toyota-bZ_Woodland.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/2027-Toyota-bZ_Woodland.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3679,14 +4218,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "bZ Woodlandin Courtenay",
-      "condition": "new"
+      "model": "bZ",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Corolla HYBRID SEin Courtenay",
       "vin": "JTDBDMHE6V3040366",
       "stock": "NUMBER",
       "color": "Classic Silver Metallic",
+      "trim": "SEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/40a819c955b1.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Corolla-id14364731.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Corolla-id14364731.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3695,14 +4237,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "Corolla HYBRID SEin Courtenay",
-      "condition": "new"
+      "model": "Corolla Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Corolla HYBRID LEin Courtenay",
       "vin": "JTDBCMFE2V3169839",
       "stock": "NUMBER",
       "color": "Celestite",
+      "trim": "LEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/4ee5dfdfc55c.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Corolla-id14364732.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Corolla-id14364732.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3711,14 +4256,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "Corolla HYBRID LEin Courtenay",
-      "condition": "new"
+      "model": "Corolla Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Corolla LEin Courtenay",
       "vin": "5YFB4MDE0VP518617",
       "stock": "NUMBER",
       "color": "Celestite",
+      "trim": "LEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/73211df015fd.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Corolla-id14474644.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Corolla-id14474644.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3727,13 +4275,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "Corolla LEin Courtenay",
-      "condition": "new"
+      "model": "Corolla",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Corolla Hatchback BASEin Courtenay",
       "vin": "JTNK4MBE8V3274285",
       "stock": "NUMBER",
+      "trim": "BASEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/1a1bf598a26f.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Corolla_Hatchback-id14304182.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Corolla_Hatchback-id14304182.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3742,14 +4293,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "Corolla Hatchback BASEin Courtenay",
-      "condition": "new"
+      "model": "Corolla",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Corolla Hatchback BASEin Courtenay",
       "vin": "JTNK4MBE5V3276365",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "BASEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/c8784afadff6.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Corolla_Hatchback-id14364730.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Corolla_Hatchback-id14364730.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3758,14 +4312,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "Corolla Hatchback BASEin Courtenay",
-      "condition": "new"
+      "model": "Corolla",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
       "vin": "JTDACACU5V3085553",
       "stock": "NUMBER",
       "color": "Ink",
+      "trim": "SEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/6f245abac768.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14349929.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14349929.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3774,14 +4331,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "Prius Plug-In Hybrid SEin Courtenay",
-      "condition": "new"
+      "model": "Prius Prime",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
       "vin": "JTDACACU1V3085193",
       "stock": "NUMBER",
       "color": "Wind Chill Pearl",
+      "trim": "SEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/0614a98452e6.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14349931.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14349931.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3790,14 +4350,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "Prius Plug-In Hybrid SEin Courtenay",
-      "condition": "new"
+      "model": "Prius Prime",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
       "vin": "JTDACACU1V3085940",
       "stock": "NUMBER",
       "color": "Wind Chill Pearl",
+      "trim": "SEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/696d42df33cc.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14349933.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14349933.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3806,14 +4369,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "Prius Plug-In Hybrid SEin Courtenay",
-      "condition": "new"
+      "model": "Prius Prime",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid XSE PREMIUMin Courtenay",
       "vin": "JTDACACU2V3085753",
       "stock": "NUMBER",
       "color": "Supersonic Red",
+      "trim": "XSE PREMIUMin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/22cd68fa0493.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14349936.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14349936.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3822,14 +4388,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "Prius Plug-In Hybrid XSE PREMIUMin Courtenay",
-      "condition": "new"
+      "model": "Prius Prime",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
       "vin": "JTDACACU3V3086765",
       "stock": "NUMBER",
       "color": "Guardian Gray",
+      "trim": "SEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/2e7ab2793d8d.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14391900.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14391900.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3838,14 +4407,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "Prius Plug-In Hybrid SEin Courtenay",
-      "condition": "new"
+      "model": "Prius Prime",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
       "vin": "JTDACACU0V3086559",
       "stock": "NUMBER",
       "color": "Guardian Gray",
+      "trim": "SEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/255e0fa16617.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14404116.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14404116.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3854,14 +4426,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "Prius Plug-In Hybrid SEin Courtenay",
-      "condition": "new"
+      "model": "Prius Prime",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
       "vin": "JTDACACU3V3087558",
       "stock": "NUMBER",
       "color": "Wind Chill Pearl",
+      "trim": "SEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/18d2e095ac19.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14453715.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Prius_Plug_In_Hybrid-id14453715.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3870,14 +4445,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "Prius Plug-In Hybrid SEin Courtenay",
-      "condition": "new"
+      "model": "Prius Prime",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota bZ XLEin Courtenay",
       "vin": "JTMADAFB0VA015834",
       "stock": "NUMBER",
       "color": "Blueprint",
+      "trim": "XLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/0449e8b2483b.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14385040.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14385040.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3886,14 +4464,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "bZ XLEin Courtenay",
-      "condition": "new"
+      "model": "bZ",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota bZ XLEin Courtenay",
       "vin": "JTMADAFB9VA015721",
       "stock": "NUMBER",
       "color": "Wind Chill Pearl",
+      "trim": "XLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/9714bc554fa9.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14385042.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14385042.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3902,14 +4483,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "bZ XLEin Courtenay",
-      "condition": "new"
+      "model": "bZ",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota bZ XLEin Courtenay",
       "vin": "JTMADAFB8VA015967",
       "stock": "NUMBER",
       "color": "Blueprint",
+      "trim": "XLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/28700e5ec91d.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14385043.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14385043.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3918,14 +4502,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "bZ XLEin Courtenay",
-      "condition": "new"
+      "model": "bZ",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota bZ XLEin Courtenay",
       "vin": "JTMADAFBXVA016442",
       "stock": "NUMBER",
       "color": "Blueprint",
+      "trim": "XLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/2e0cc6a55723.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14432096.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14432096.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3934,14 +4521,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "bZ XLEin Courtenay",
-      "condition": "new"
+      "model": "bZ",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota bZ XLEin Courtenay",
       "vin": "JTMADAFB7VA016432",
       "stock": "NUMBER",
       "color": "Midnight Black Metallic",
+      "trim": "XLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/841090028378.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14432098.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14432098.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3950,14 +4540,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "bZ XLEin Courtenay",
-      "condition": "new"
+      "model": "bZ",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota bZ XLEin Courtenay",
       "vin": "JTMADAFB9VA016285",
       "stock": "NUMBER",
       "color": "Wind Chill Pearl",
+      "trim": "XLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/1f39a60d078d.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14432100.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14432100.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3966,14 +4559,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "bZ XLEin Courtenay",
-      "condition": "new"
+      "model": "bZ",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota bZ XLEin Courtenay",
       "vin": "JTMADAFB4VA016453",
       "stock": "NUMBER",
       "color": "Heavy Metal",
+      "trim": "XLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/c28e60ba4e1a.html",
       "source_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14432101.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-bZ-id14432101.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3982,8 +4578,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Toyota",
-      "model": "bZ XLEin Courtenay",
-      "condition": "new"
+      "model": "bZ",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     }
   ]
 }
