@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Toyota",
-  "generated_at": "2026-10-25T22:57:25",
-  "vehicle_count": 215,
+  "generated_at": "2026-10-26T07:42:31",
+  "vehicle_count": 214,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -193,17 +193,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Jeep Compass ",
-      "vin": "3C4NJDCB3JT322577",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/afc4cbb54ae2.html",
-      "year": 2018,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 19494.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Jeep Wrangler ",
       "vin": "1C4HJWEG2JL873001",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/db504649723d.html",
@@ -299,7 +288,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 28702.0,
+      "price": 27999.0,
       "price_currency": "CAD"
     },
     {
@@ -860,7 +849,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 39163.0,
+      "price": 38691.0,
       "price_currency": "CAD"
     },
     {
@@ -871,7 +860,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 39163.0,
+      "price": 38691.0,
       "price_currency": "CAD"
     },
     {
@@ -904,7 +893,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 28852.0,
+      "price": 28289.0,
       "price_currency": "CAD"
     },
     {
@@ -1036,7 +1025,7 @@
       "make": "Ford",
       "model": "Bronco",
       "condition": "used",
-      "price": 57363.0,
+      "price": 57263.0,
       "price_currency": "CAD"
     },
     {
@@ -1344,7 +1333,7 @@
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "used",
-      "price": 43979.0,
+      "price": 43970.0,
       "price_currency": "CAD"
     },
     {
@@ -1410,7 +1399,7 @@
       "make": "Lexus",
       "model": "RX",
       "condition": "used",
-      "price": 67950.0,
+      "price": 67505.0,
       "price_currency": "CAD"
     },
     {
@@ -1421,7 +1410,7 @@
       "make": "Lexus",
       "model": "RX",
       "condition": "used",
-      "price": 67950.0,
+      "price": 67505.0,
       "price_currency": "CAD"
     },
     {
@@ -1476,7 +1465,7 @@
       "make": "Toyota",
       "model": "Grand Highlander",
       "condition": "used",
-      "price": 62791.0,
+      "price": 62691.0,
       "price_currency": "CAD"
     },
     {
@@ -1487,7 +1476,7 @@
       "make": "Toyota",
       "model": "Grand Highlander",
       "condition": "used",
-      "price": 62791.0,
+      "price": 62691.0,
       "price_currency": "CAD"
     },
     {
@@ -1509,7 +1498,7 @@
       "make": "Toyota",
       "model": "Tundra",
       "condition": "used",
-      "price": 87980.0,
+      "price": 87480.0,
       "price_currency": "CAD"
     },
     {
@@ -1988,7 +1977,7 @@
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "used",
-      "price": 55890.0,
+      "price": 55790.0,
       "price_currency": "CAD"
     },
     {
@@ -1999,7 +1988,7 @@
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "used",
-      "price": 55890.0,
+      "price": 55790.0,
       "price_currency": "CAD"
     },
     {
