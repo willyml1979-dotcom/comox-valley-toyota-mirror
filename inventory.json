@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Toyota",
-  "generated_at": "2026-10-26T07:42:31",
-  "vehicle_count": 214,
+  "generated_at": "2026-10-26T07:46:31",
+  "vehicle_count": 213,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -11,6 +11,14 @@
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/fc5a6a21d727.html",
       "condition": "new",
       "price": 52244.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Corolla Cross XLEin Courtenay",
+      "vin": "7MUDAABG7TV201920",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/479365a9f276.html",
+      "condition": "new",
+      "price": 43064.0,
       "price_currency": "CAD"
     },
     {
@@ -110,6 +118,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Toyota Tacoma Basein Courtenay",
+      "vin": "3TYLB5JN6TT159979",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/a404d325f498.html",
+      "condition": "new",
+      "price": 62461.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Toyota C-HR SEin Courtenay",
       "vin": "JTMABABD5VJ039902",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/d8d56b557f96.html",
@@ -123,6 +139,14 @@
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/9b07184fb9ea.html",
       "condition": "new",
       "price": 46825.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Corolla Hybrid Sein Courtenay",
+      "vin": "JTDBDMHE6V3040366",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/40a819c955b1.html",
+      "condition": "new",
+      "price": 34135.0,
       "price_currency": "CAD"
     },
     {
@@ -143,6 +167,14 @@
     },
     {
       "name": "New 2027 Toyota Corolla Hatchback Basein Courtenay",
+      "vin": "JTNK4MBE5V3276365",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/c8784afadff6.html",
+      "condition": "new",
+      "price": 33968.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Corolla Hatchback Basein Courtenay",
       "vin": "JTNK4MBE5V3278214",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/d53f6b8a6291.html",
       "condition": "new",
@@ -151,10 +183,74 @@
     },
     {
       "name": "New 2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
+      "vin": "JTDACACU1V3085193",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/0614a98452e6.html",
+      "condition": "new",
+      "price": 43290.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
+      "vin": "JTDACACU1V3085940",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/696d42df33cc.html",
+      "condition": "new",
+      "price": 43290.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Prius Plug-In Hybrid Xse Premiumin Courtenay",
+      "vin": "JTDACACU2V3085753",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/22cd68fa0493.html",
+      "condition": "new",
+      "price": 51370.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
+      "vin": "JTDACACU3V3086765",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/2e7ab2793d8d.html",
+      "condition": "new",
+      "price": 43178.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
+      "vin": "JTDACACU0V3086559",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/255e0fa16617.html",
+      "condition": "new",
+      "price": 42940.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
       "vin": "JTDACACU3V3087558",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/18d2e095ac19.html",
       "condition": "new",
       "price": 43290.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota bZ XLEin Courtenay",
+      "vin": "JTMADAFB0VA015834",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/0449e8b2483b.html",
+      "condition": "new",
+      "price": 55819.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota bZ XLEin Courtenay",
+      "vin": "JTMADAFB9VA015721",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/9714bc554fa9.html",
+      "condition": "new",
+      "price": 55685.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota bZ XLEin Courtenay",
+      "vin": "JTMADAFB8VA015967",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/28700e5ec91d.html",
+      "condition": "new",
+      "price": 55335.0,
       "price_currency": "CAD"
     },
     {
@@ -227,13 +323,13 @@
     },
     {
       "name": "2018 Nissan Murano ",
-      "vin": "5N1AZ2MH1JN106477",
+      "vin": "5N1AZ2MH9JN123365",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/8b0d5edde532.html",
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
       "condition": "new",
-      "price": 15999.0,
+      "price": 15698.0,
       "price_currency": "CAD"
     },
     {
@@ -1849,28 +1945,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Corolla SEin Courtenay",
-      "vin": "5YFB4MBE5TP277041",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/6040423486c4.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "new",
-      "price": 29520.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla Cross XLEin Courtenay",
-      "vin": "7MUDAABG7TV201920",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/479365a9f276.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 43064.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Highlander Hybrid Xlein Courtenay",
       "vin": "5TDKBRCH2TS734973",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/3cc3cb91a20f.html",
@@ -1885,17 +1959,6 @@
       "name": "2026 Toyota Tacoma Basein Courtenay",
       "vin": "3TYLB5JN5TT158306",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/4ebdc29a284e.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 62461.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tacoma Basein Courtenay",
-      "vin": "3TYLB5JN6TT159979",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/a404d325f498.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
@@ -2153,17 +2216,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Hybrid Sein Courtenay",
-      "vin": "JTDBDMHE6V3040366",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/40a819c955b1.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Corolla Hybrid",
-      "condition": "new",
-      "price": 34135.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Toyota Corolla Hatchback CVTin Courtenay",
       "vin": "JTNK4MBE8V3274285",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/1a1bf598a26f.html",
@@ -2172,105 +2224,6 @@
       "model": "Corolla",
       "condition": "new",
       "price": 33878.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Corolla Hatchback Basein Courtenay",
-      "vin": "JTNK4MBE5V3276365",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/c8784afadff6.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "new",
-      "price": 33968.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
-      "vin": "JTDACACU1V3085193",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/0614a98452e6.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 43290.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
-      "vin": "JTDACACU1V3085940",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/696d42df33cc.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 43290.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid Xse Premiumin Courtenay",
-      "vin": "JTDACACU2V3085753",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/22cd68fa0493.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 51370.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
-      "vin": "JTDACACU3V3086765",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/2e7ab2793d8d.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 43178.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SEin Courtenay",
-      "vin": "JTDACACU0V3086559",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/255e0fa16617.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 42940.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota bZ XLEin Courtenay",
-      "vin": "JTMADAFB0VA015834",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/0449e8b2483b.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 55819.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota bZ XLEin Courtenay",
-      "vin": "JTMADAFB9VA015721",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/9714bc554fa9.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 55685.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota bZ XLEin Courtenay",
-      "vin": "JTMADAFB8VA015967",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/28700e5ec91d.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 55335.0,
       "price_currency": "CAD"
     }
   ]
