@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Toyota",
-  "generated_at": "2026-11-17T08:34:15",
-  "vehicle_count": 206,
+  "generated_at": "2026-11-17T08:42:50",
+  "vehicle_count": 218,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -270,6 +270,46 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai 2023 for salein Courtenay",
+      "vin": "KM8R3DGE2PU581507",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/8f7168cf439e.html",
+      "condition": "new",
+      "price": 38732.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai 2024 for salein Courtenay",
+      "vin": "KMHRB8A30RU314242",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/e66e30353275.html",
+      "condition": "new",
+      "price": 19999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2024 for salein Courtenay",
+      "vin": "1C4RJHBG9RC209245",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/4b190a757d74.html",
+      "condition": "new",
+      "price": 37901.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2024 for salein Courtenay",
+      "vin": "1C4PJXDN4RW123479",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/d4a6708a24a6.html",
+      "condition": "new",
+      "price": 43470.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2025 for salein Courtenay",
+      "vin": "1FMDE8BH9SLB25175",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/ebb1f1e9763f.html",
+      "condition": "new",
+      "price": 55998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Mitsubishi Outlander PHEV ",
       "vin": "JA4J24A59JZ613046",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/b15092422a1d.html",
@@ -523,17 +563,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Santa Fe ",
-      "vin": "5NMS3DAJ6PH595011",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/8f7168cf439e.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "new",
-      "price": 24980.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Infiniti QX60 Luxein Courtenay",
       "vin": "5N1DL1FS3PC348757",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/24eac1692ffc.html",
@@ -589,28 +618,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Escape ",
-      "vin": "1FMCU9MN7RUB06880",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/6ff89b35be46.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 25991.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Santa Fe ",
-      "vin": "5NMP5DGL4RH009188",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/e66e30353275.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "new",
-      "price": 37993.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Jeep Grand Cherokee Limitedin Courtenay",
       "vin": "1C4RJHBG9RC209245",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/9fd8702f02cb.html",
@@ -644,28 +651,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Grand Cherokee ",
-      "vin": "1C4RJHBG9RC209245",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/4b190a757d74.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 39163.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Wrangler ",
-      "vin": "1C4PJXDN8RW136963",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/d4a6708a24a6.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 39997.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Rogue ",
       "vin": "JN8BT3BB1RW181480",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/used/c94069377877.html",
@@ -696,17 +681,6 @@
       "model": "Tundra",
       "condition": "used",
       "price": 72990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota Tacoma ",
-      "vin": "3TYLB5JN0RT024974",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/ad8ef35c9c45.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 49471.0,
       "price_currency": "CAD"
     },
     {
@@ -751,39 +725,6 @@
       "model": "Bronco",
       "condition": "used",
       "price": 57490.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Bronco ",
-      "vin": "1FMEE8BP7SLA59429",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/ebb1f1e9763f.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "new",
-      "price": 57499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Ranger ",
-      "vin": "1FTER4HP5SLE36669",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/06aae8a8c147.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 49893.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H94SH214812",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/dec74174d206.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
-      "condition": "new",
-      "price": 37001.0,
       "price_currency": "CAD"
     },
     {
@@ -1574,6 +1515,83 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Toyota Highlander XLEin Courtenay",
+      "vin": "5TDKDRBH2TS623318",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/f6c9a29cebf8.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Highlander",
+      "condition": "new",
+      "price": 53465.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota RAV4 Woodlandin Courtenay",
+      "vin": "2T36CRAV5TW129688",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/ac329555a174.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "new",
+      "price": 48930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota RAV4 Limitedin Courtenay",
+      "vin": "2T36CRAV1TW136993",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/d2fef7432f8e.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "new",
+      "price": 53930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota RAV4 Woodlandin Courtenay",
+      "vin": "2T36CRAVXTW125555",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/facd9eb7a782.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "new",
+      "price": 48930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota RAV4 Woodlandin Courtenay",
+      "vin": "2T36CRAV6TW129389",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/fc32ae666365.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "new",
+      "price": 48930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota RAV4 XLEin Courtenay",
+      "vin": "2T36CRAV7TW129238",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/5a0dd71fb4ff.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "new",
+      "price": 43230.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota RAV4 Woodlandin Courtenay",
+      "vin": "2T36CRAV5TW131053",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/6ce67870fefb.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "new",
+      "price": 48930.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Toyota RAV4 Plug-In Hybrid XSEin Courtenay",
       "vin": "JTM7ERAV8TD028902",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/5ab0f5908972.html",
@@ -1593,6 +1611,28 @@
       "model": "RAV4 Plug-In Hybrid",
       "condition": "new",
       "price": 61280.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota RAV4 Plug-In Hybrid SEin Courtenay",
+      "vin": "JTM7ERAV1TJ051780",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/322df9f0d699.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "RAV4 Plug-In Hybrid",
+      "condition": "new",
+      "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota RAV4 Plug-In Hybrid SEin Courtenay",
+      "vin": "JTM7ERAV9TJ050036",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/cd7972393525.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "RAV4 Plug-In Hybrid",
+      "condition": "new",
+      "price": 50680.0,
       "price_currency": "CAD"
     },
     {
@@ -1673,14 +1713,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tacoma Basein Courtenay",
+      "name": "New 2026 Toyota Tacoma Basein Courtenay",
       "vin": "3TYLB5JN5TT161268",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/0afbd5ad406d.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "new",
-      "price": 58718.0,
+      "price": 56718.0,
       "price_currency": "CAD"
     },
     {
@@ -1703,6 +1743,39 @@
       "model": "Tacoma",
       "condition": "new",
       "price": 53905.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Tacoma Basein Courtenay",
+      "vin": "3TYLB5JN8TT161278",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/7445c72506ba.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new",
+      "price": 50825.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Tacoma Basein Courtenay",
+      "vin": "3TYLE5JN8TT158193",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/7f92e0ef7231.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new",
+      "price": 54505.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Tacoma Basein Courtenay",
+      "vin": "3TYLB5JN0TT164949",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/defdf838a079.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new",
+      "price": 55495.0,
       "price_currency": "CAD"
     },
     {
@@ -1944,9 +2017,64 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Toyota C-HR SEin Courtenay",
+      "vin": "JTMABABD5VJ039902",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/8f806399f412.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new",
+      "price": 46825.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota C-HR SEin Courtenay",
+      "vin": "JTMABABD9VJ038526",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/2fc9fa04ff7f.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new",
+      "price": 46825.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota C-HR SEin Courtenay",
+      "vin": "JTMABABD8VJ040042",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/b3920ae4a8da.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new",
+      "price": 47175.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota C-HR XSEin Courtenay",
+      "vin": "JTMAAAADXVJ036515",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/75cd1764194f.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new",
+      "price": 51875.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Toyota Camry XSEin Courtenay",
       "vin": "4T1DBADK5VU075639",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/ab2cb59ddeee.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Camry",
+      "condition": "new",
+      "price": 48665.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Camry XSEin Courtenay",
+      "vin": "4T1DBADK5VU075639",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/f4facb5c28b8.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Camry",
@@ -1985,17 +2113,6 @@
       "model": "Corolla",
       "condition": "new",
       "price": 30676.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Corolla Hatchback CVTin Courtenay",
-      "vin": "JTNK4MBE8V3274285",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/1a1bf598a26f.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "new",
-      "price": 33878.0,
       "price_currency": "CAD"
     },
     {
