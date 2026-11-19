@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Toyota",
-  "generated_at": "2026-11-18T19:51:02",
-  "vehicle_count": 223,
+  "generated_at": "2026-11-18T19:56:59",
+  "vehicle_count": 222,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1085,56 +1085,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Crown Signia ",
+      "name": "2026 Toyota Crown Signiain Courtenay",
       "vin": "JTDACAAJ0T3050814",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/9e753b52a681.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Crown Signia",
+      "model": "Crown",
       "condition": "new",
-      "price": 60485.0,
+      "price": 61575.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota GR86in Courtenay",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/69555e44ebd5.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "GR86in Courtenay",
-      "condition": "new",
-      "price": 35845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota GR Corolla ",
+      "name": "2026 Toyota GR Corollain Courtenay",
       "vin": "SB1ADADEXTE003620",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/3ef624393cbe.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "GR Corolla",
+      "model": "GR Corollain Courtenay",
       "condition": "new",
-      "price": 56854.0,
+      "price": 53145.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota GR Suprain Courtenay",
+      "name": "2026 Toyota Camryin Courtenay",
+      "vin": "4T1DBADK9TU567863",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/cec05cced582.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "GR Suprain Courtenay",
+      "model": "Camryin Courtenay",
       "condition": "new",
-      "price": 66325.0,
+      "price": 38025.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Grand Highlander ",
+      "name": "2026 Toyota Grand Highlanderin Courtenay",
       "vin": "5TDAAAB53TS141033",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/13b0ba4044d8.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Grand Highlander",
+      "model": "Grand Highlanderin Courtenay",
       "condition": "new",
-      "price": 62791.0,
+      "price": 55155.0,
       "price_currency": "CAD"
     },
     {
@@ -1658,17 +1649,6 @@
     },
     {
       "name": "New 2026 Toyota Tacoma Basein Courtenay",
-      "vin": "3TYLB5JN4TT157017",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/d6f0cc16fdf7.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 62461.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota Tacoma Basein Courtenay",
       "vin": "3TYLB5JNXTT159404",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/14f3818d05bb.html",
       "year": 2026,
@@ -1819,6 +1799,16 @@
       "model": "C-HRin Courtenay",
       "condition": "new",
       "price": 45683.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota GR86in Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-toyota-mirror/new/69555e44ebd5.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "GR86in Courtenay",
+      "condition": "new",
+      "price": 36350.0,
       "price_currency": "CAD"
     },
     {
